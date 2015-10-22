@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Florist, In Ramallah, Palestine ]]></title>
+        <description><![CDATA[Florist, In Ramallah, Palestine ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 22 Oct 2015 15:55:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[about us]]></title>
+            <description><![CDATA[<article><h1>about us</h1><p>our story</p></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">5bab78e3-7191-4199-847f-8f8fb7122a96</guid>
+            <pubDate>Thu, 22 Oct 2015 15:55:28 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
