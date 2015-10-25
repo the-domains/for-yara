@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Florist, In Ramallah, Palestine ]]></title>
         <description><![CDATA[Florist, In Ramallah, Palestine ]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/for-yara/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 15:55:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 25 Oct 2015 17:18:32 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/for-yara/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[about us]]></title>
             <description><![CDATA[<article><h1>about us</h1><p>our story</p></article>]]></description>
-            <link>undefinedabout-us/index.html</link>
+            <link>https://thegrid.ai/for-yara/about-us/index.html</link>
             <guid isPermaLink="false">5bab78e3-7191-4199-847f-8f8fb7122a96</guid>
-            <pubDate>Thu, 22 Oct 2015 15:55:28 GMT</pubDate>
+            <pubDate>Sun, 25 Oct 2015 17:18:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
